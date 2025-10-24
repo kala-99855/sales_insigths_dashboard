@@ -53,6 +53,7 @@ Business Questions Answered:
 7.	Which regions underperform and need attention?
 8.	How does the actual sales compare with targets?
 
+<a herf ="
 ## Project Process (Workflow)
 
 Step 1: Data Extraction
@@ -112,8 +113,11 @@ The Sales Insights Power BI Dashboard successfully transformed raw SQL Server da
 It provides:
 
 •	A comprehensive view of sales, profit, and customer performance.
+
 •	Identification of high-performing products and regions.
+
 •	Strategic insights to improve marketing and inventory planning.
+
 •	A dynamic and user-friendly interface for decision-makers to explore data visually.
 
 This project demonstrates the integration of SQL-based data analytics and Power BI visualization for real-world business decision-making.
