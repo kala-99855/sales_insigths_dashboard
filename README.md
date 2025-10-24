@@ -29,3 +29,27 @@ Tables Imported:
 4.	Regions – Region Name, State, Country
 5.	Sales Targets (optional) – Target Amount per Region/Month
 The data was extracted using SQL queries and imported into Power BI through a Direct Query or Import mode connection.
+
+## KPIs / Dashboard Questions
+
+These Key Performance Indicators (KPIs) and business questions guide the dashboard’s visual design:
+Key KPIs:
+•	✅ Total Sales
+•	✅ Total Profit
+•	✅ Total Quantity Sold
+•	✅ Average Sales per Transaction
+•	✅ Profit Margin (%)
+•	✅ Sales Growth Rate (%)
+
+Business Questions Answered:
+
+1.	What is the total revenue and profit generated this year?
+2.	Which region or city contributes the most to total sales?
+3.	Who are the top 10 customers by purchase value?
+4.	Which products or categories are most profitable?
+5.	How do sales vary month-over-month or year-over-year?
+6.	What is the sales trend across regions and time periods?
+7.	Which regions underperform and need attention?
+8.	How does the actual sales compare with targets?
+________________________________________
+
