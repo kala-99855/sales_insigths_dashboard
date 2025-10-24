@@ -34,6 +34,7 @@ The data was extracted using SQL queries and imported into Power BI through a Di
 
 These Key Performance Indicators (KPIs) and business questions guide the dashboard’s visual design:
 Key KPIs:
+
 •	✅ Total Sales
 •	✅ Total Profit
 •	✅ Total Quantity Sold
@@ -51,5 +52,46 @@ Business Questions Answered:
 6.	What is the sales trend across regions and time periods?
 7.	Which regions underperform and need attention?
 8.	How does the actual sales compare with targets?
+
+## Project Process (Workflow)
+
+Step 1: Data Extraction
+
+•	Connected Power BI to SQL Server database using SQL queries.
+•	Imported tables like Customers, Products, Transactions, Regions.
+
+Step 2: Data Cleaning & Transformation
+
+•	Removed duplicates and null values.
+•	Standardized column names and data types.
+•	Created calculated columns (e.g., Total_Sales = Quantity * Unit Price).
+
+Step 3: Data Modeling
+
+•	Built relationships between tables using primary and foreign keys.
+o	Example: Customers[Customer_ID] ↔ Transactions[Customer_ID]
+•	Used a Star Schema for efficiency.
+
+Step 4: DAX Calculations
+
+•	Created measures for key KPIs using DAX formulas:
+o	Total Sales = SUM(Transactions[Sales Amount])
+o	Profit Margin = DIVIDE(SUM(Profit), SUM(Sales Amount))
+o	Sales Growth = (Current Year Sales - Previous Year Sales) / Previous Year Sales
+
+Step 5: Visualization Design
+
+•	Added charts, maps, and KPI cards for interactive analysis.
+•	Applied slicers for filters (Year, Region, Product Category).
+
+Step 6: Dashboard Creation
+
+•	Created multiple pages:
+o	Sales Overview Dashboard
+o	Regional Performance Dashboard
+o	Product Analysis Dashboard
+o	Customer Insights Dashboard
+________________________________________
+
 ________________________________________
 
