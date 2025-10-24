@@ -30,6 +30,7 @@ Tables Imported:
 5.	Sales Targets (optional) – Target Amount per Region/Month
 The data was extracted using SQL queries and imported into Power BI through a Direct Query or Import mode connection.
 
+
 ## KPIs / Dashboard Questions
 
 These Key Performance Indicators (KPIs) and business questions guide the dashboard’s visual design:
