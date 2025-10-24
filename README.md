@@ -4,6 +4,7 @@ Project Objectives
 The main objective of this project is to analyze sales data stored in a SQL Server database and create an interactive Power BI dashboard that provides meaningful business insights.
 
 Key objectives:
+
 •	To visualize overall sales, profit, and quantity trends over time.
 •	To identify top-performing products, customers, and regions.
 •	To compare sales performance across different periods and locations.
