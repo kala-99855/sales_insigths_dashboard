@@ -53,7 +53,7 @@ Business Questions Answered:
 7.	Which regions underperform and need attention?
 8.	How does the actual sales compare with targets?
 
-<a herf ="https://github.com/kala-99855/sales_insigths_dashboard/blob/main/Screenshot%202025-10-24%20100013.png"> dashboard<a>
+<a href ="https://github.com/kala-99855/sales_insigths_dashboard/blob/main/Screenshot%202025-10-24%20100013.png"> dashboard<a>
 ## Project Process (Workflow)
 
 Step 1: Data Extraction
