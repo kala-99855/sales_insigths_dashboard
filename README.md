@@ -1,5 +1,5 @@
 # Sales Insights Dashboard using Power BI
-##Project Objectives
+## Project Objectives
 
 The main objective of this project is to analyze sales data stored in a SQL Server database and create an interactive Power BI dashboard that provides meaningful business insights.
 
@@ -15,7 +15,7 @@ Key objectives:
 
 •	To integrate Power BI with SQL Server for automated data refresh and live analysis.
 
-##Dataset Used
+## Dataset Used
 
 Data Source: Microsoft SQL Server
 
